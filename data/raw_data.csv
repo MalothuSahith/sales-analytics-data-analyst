@@ -1,0 +1,9 @@
+order_id,customer_id,order_date, product, category, region, quantity, price,payment_value
+1001, C001,2023-01-05, Laptop, Electronics, South,1,55000,55000
+1002, C002,2023-01-10, Headphones, Electronics, North,2,2000,4000
+1003, C003,2023-02-0 2, Office Chair, Furniture, West,1,7000,7000
+1004, C001,2023-0 2-15, Mouse, Electronics, South,3,800,24 00
+1005, C004,20 23-03 -01, Table, Furniture, East,1,12000,12000
+1006, C00 2,2023-0 3-18, Keyboa rd, Electronics, North,2,1500,3000
+1007, C005,2023-0 4-05, Mobile  Phone,Electronics,South,1,25000,25000
+1008, C003,2023-04-20, Lamp, Furniture, West,2,1200,2400
